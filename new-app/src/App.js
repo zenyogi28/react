@@ -17,3 +17,5 @@ function App() {
 }
 
 export default App;
+
+// Just writing comment to test Git integration
